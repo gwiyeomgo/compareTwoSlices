@@ -1,4 +1,4 @@
-package common
+package compareTwoSlices
 
 const DELETE = "delete"
 const ADD = "add"

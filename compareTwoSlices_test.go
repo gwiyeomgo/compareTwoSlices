@@ -1,4 +1,4 @@
-package common
+package compareTwoSlices
 
 import (
 	"github.com/stretchr/testify/assert"
